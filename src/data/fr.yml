@@ -20,12 +20,12 @@ footer2: " et est développé par une communauté de collaborateurs avec le sout
 footer3: " et "
 footer4: "Identité visuelle et design par "
 
-tagline1: "Processing fun times JavaScript quirkiness"
-tagline2: "Processing simplicity times JavaScript flexibility"
-tagline3: "Processing intuition times JavaScript power"
-tagline4: "Processing creativity times JavaScript dynamism"
-tagline5: "Processing community times JavaScript community"
-tagline6: "the power of Processing times the reach of JavaScript"
+tagline1: "le fun de Processing x l'excentricité de JavaScript"
+tagline2: "la simplicité de Processing x la flexibilité de JavaScript"
+tagline3: "l'intuitivité de Processing x la puissance de JavaScript"
+tagline4: "la créativité de processing X le dynamisme de Javascript"
+tagline5: "la communauté Processing x la communauté JavaScript"
+tagline6: "la puissance de Processing x la portée de JavaScript"
 
 home:
   start-creating: "Commencez à créer !"
